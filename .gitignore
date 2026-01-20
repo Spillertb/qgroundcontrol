@@ -158,7 +158,6 @@ Qt*-linux*.tar.*
 .claudeignore
 .geminiignore
 .cursorignore
-**/CLAUDE.md
 
 # Pre-commit hooks
 .ruff_cache/
